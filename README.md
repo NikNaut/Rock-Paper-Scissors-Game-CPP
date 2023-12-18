@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game Readme
+# Rock Paper Scissors Game
 
 This C++ program implements a simple Rock Paper Scissors game where the player competes against the computer. The game allows the player to choose between Rock ('r'), Paper ('p'), or Scissors ('s'), and then determines the winner based on the choices made.
 
