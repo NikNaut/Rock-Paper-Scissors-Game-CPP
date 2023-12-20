@@ -38,16 +38,16 @@ char choicePlayer() {
 char choiceComputer() {
     char computer;
     srand(time(0));
-    int rno = rand() % 3 + 1;
+    int rno = rand() % 3;
     switch (rno)
     {
-    case 1:
+    case 0:
         computer = 'r';
         break;
-    case 2:
+    case 1:
         computer = 'p';
         break;
-    case 3:
+    case 2:
         computer = 's';
         break;
     }
